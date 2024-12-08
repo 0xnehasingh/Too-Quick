@@ -1,4 +1,4 @@
-// hooks/useConnect.ts
+"use client";
 import { useConnect as useWagmiConnect } from 'wagmi';
 
 export function useConnect() {

@@ -1,5 +1,3 @@
-
-// components/NavBar.tsx
 "use client";
 
 import { ConnectButton } from "@rainbow-me/rainbowkit";

@@ -1,4 +1,4 @@
-// app/page.tsx
+"use client";
 import { NavBar } from "./components/NavBar";
 import { QuestBoard } from "./components/QuestBoard";
 

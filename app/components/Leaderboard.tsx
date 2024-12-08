@@ -1,4 +1,3 @@
-// components/Leaderboard.tsx
 "use client";
 
 import { useLeaderboard } from "../hooks/useLeaderboard";

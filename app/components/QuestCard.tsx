@@ -1,4 +1,3 @@
-// components/QuestCard.tsx
 "use client";
 
 import { Quest } from "../types/Quest";

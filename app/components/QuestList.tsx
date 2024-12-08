@@ -1,4 +1,3 @@
-// components/QuestList.tsx
 "use client";
 
 import { useQuests } from "../hooks/useQuest";

@@ -1,5 +1,5 @@
 
-// hooks/useUserData.ts
+"use client";
 import { useState, useEffect } from "react";
 import { User } from "../types/User";
 

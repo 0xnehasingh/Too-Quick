@@ -1,4 +1,4 @@
-// hooks/useLeaderboard.ts
+"use client";
 import { useState, useEffect } from "react";
 import { useReadContract, useWatchContractEvent } from "wagmi";
 import { questHubABI } from "../contracts/abi";

@@ -1,6 +1,4 @@
-// app/providers.tsx
 "use client";
-
 import * as React from 'react';
 import { RainbowKitProvider } from '@rainbow-me/rainbowkit';
 import '@rainbow-me/rainbowkit/styles.css';

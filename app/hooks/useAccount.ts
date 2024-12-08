@@ -1,4 +1,4 @@
-// hooks/useAccount.ts
+"use client";
 import { useAccount as useWagmiAccount } from 'wagmi';
 
 export function useAccount() {

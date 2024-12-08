@@ -1,4 +1,4 @@
-// hooks/useQuests.ts
+"use client";
 import { useState } from "react";
 import { Quest } from "../types/Quest";
 
