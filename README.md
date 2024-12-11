@@ -145,7 +145,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Live Demo](https://too-quick-9kpm.vercel.app/)
 - [Documentation](https://plant-octave-bc7.notion.site/Base-Quest-Hub-Gamified-On-chain-Activity-Platform-159d8b3479ac80cd86d5c09107e19864)
-- [Contract on BaseScan](https://basescan.org)
+- [Contract on BaseScan](https://sepolia.basescan.org/address/0xA3060095F8E39e9aef5e8127115A57820993B4C0)
 
 ## 🙏 Acknowledgments
 
