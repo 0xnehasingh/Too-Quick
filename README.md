@@ -5,6 +5,15 @@ A gamified platform for Base network users to complete quests, earn points, and 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
+![image](https://github.com/user-attachments/assets/8ac48668-f936-430b-95c4-fb4097d04e1b)
+
+![image](https://github.com/user-attachments/assets/ab4be5b3-da95-4817-8426-f29f24faf7e0)
+
+![image](https://github.com/user-attachments/assets/6903ebbc-9f75-429f-ba17-7a46a76b3885)
+
+
+
+
 ## 🚀 Features
 
 - **Quest System**: Complete on-chain activities to earn points
@@ -134,8 +143,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Live Demo](https://your-demo-link.com)
-- [Documentation](https://your-docs-link.com)
+- [Live Demo](https://too-quick-9kpm.vercel.app/)
+- [Documentation](https://plant-octave-bc7.notion.site/Base-Quest-Hub-Gamified-On-chain-Activity-Platform-159d8b3479ac80cd86d5c09107e19864)
 - [Contract on BaseScan](https://basescan.org)
 
 ## 🙏 Acknowledgments
